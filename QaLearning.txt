@@ -1,1 +1,2 @@
 QA should also learn git commands.
+Keep on revising the commands.
