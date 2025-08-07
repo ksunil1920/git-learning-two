@@ -13,3 +13,4 @@
 
 # Ignore sensitive configuration files
 config.properties
+!important .tmp
