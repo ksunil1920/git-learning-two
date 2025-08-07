@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dasdhba xcvfsdf cvxcvx
+=======
+dasdhba xcvfsdf cvxcvx sdasd
+>>>>>>> 5c8c61d5a755a7c6eb92e79d5b507bb2b97777b5
